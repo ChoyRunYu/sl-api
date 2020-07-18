@@ -7,10 +7,10 @@
 ```
 ├── app						# 网站应用目录
 │	├── api					# api应用
-│	     ├── controller		        # 控制器层
-│	     ├── lib				# 错误处理lib
-│	     ├── model			        # 模型层
-│	     └── service			# 服务层
+│	│    ├── controller		        # 控制器层
+│	│    ├── lib				# 错误处理lib
+│	│    ├── model			        # 模型层
+│	│    └── service			# 服务层
 │	├── common				# 公共模块
 │	└── vbs					# vbs执行脚本
 ├── extend					# 扩展类库目录
